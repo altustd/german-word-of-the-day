@@ -1,4 +1,4 @@
-# German-Word-of-the-Day
+# german-word-of-the-day
 Retrieves a German word of the day by scraping  www.germaneveryday.com
 
 """
